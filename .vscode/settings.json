@@ -1,0 +1,65 @@
+{
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "redhat.telemetry.enabled": true,
+    "dart.debugExternalPackageLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "editor.inlineSuggest.enabled": true,
+    "explorer.compactFolders": false,
+    "git.confirmSync": false,
+    "codestream.email": "abdelrhmanarafatahmed@gmail.com",
+    "files.autoSave": "afterDelay",
+    "chatgpt.gpt3.apiKey": "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",
+    "CodeGPT.model": "gpt-4",
+    "editor.guides.bracketPairs": true,
+    "tabnine.experimentalAutoImports": true,
+    "workbench.productIconTheme": "bootstrap-product-icons",
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "pieces.setCopilotLocation": true,
+    "workbench.editorAssociations": {
+        "*.jar": "default",
+        "*.swift": "default",
+        "*.vsix": "default"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontLigatures": false,
+    "editor.fontVariations": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    "explorer.copyRelativePathSeparator": "/",
+    "dart.previewFlutterUiGuides": true,
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "cmake.configureOnOpen": true,
+    "cmake.options.statusBarVisibility": "visible",
+    "cmake.showOptionsMovedNotification": false,
+    "swiftformat.path": [
+        "/usr/bin/env",
+        "swiftformat"
+    ],
+    "workbench.iconTheme": "material-icon-theme",
+    "codestream.serverUrl": "https://codestream-api-v2-us1.service.newrelic.com",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "git.autofetch": true,
+    "pieces.OS.launchOnStartup": "Yes",
+    "pieces.cloudCapabilities": "Blended",
+    "pieces.telemetry": true,
+    "pieces.OS.autoLaunchOnInteraction": true,
+    "editor.formatOnSave": true,
+    "workbench.settings.applyToAllProfiles": [],
+    "dart.getDartSdkCommand": null,
+}
